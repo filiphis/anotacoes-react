@@ -1,0 +1,8 @@
+Iniciando um projeto com boas praticas | EditorConfig, ESLin e Prettier
+
+
+EditorConfig
+	Crie o arquivo .editorconfig e coloque as configurações desejadas
+
+Iniciando o ESLint
+	npx eslint --init

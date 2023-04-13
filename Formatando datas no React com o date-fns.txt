@@ -1,0 +1,16 @@
+Formatando datas no React com o date-fns
+
+date-fns format's:	https://date-fns.org/v2.28.0/docs/format
+
+
+import {format, formatDistanceToNow } from 'date-fns';
+import ptBR from 'date-fns/locale/pt-BR';
+
+const publishedDateTimeFormatted = format(publishedAt, "d 'de' LLLL 'ás' HH:mm'h'", {
+	locale: ptBR,
+})
+
+const publishedDateRelativeToNow = formatDistanceToNow(publishedAt, {
+	locale: ptBR,
+	addSuffix: true,
+})

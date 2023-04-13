@@ -1,0 +1,66 @@
+Funcionalidades do React
+
+
+CSS Module
+	Ao criar um arquivo css ( styles.module.css ) as classes presentes nesse arquivo irão ganhar um hash no nome, fazendo com que não tenha classes duplicadas em nosso projeto.
+.
+
+
+
+date-fns
+	Biblioteca para facilitar a formatação de datas
+		https://date-fns.org/v2.28.0/docs/format
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

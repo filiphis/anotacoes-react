@@ -1,0 +1,19 @@
+StoryBook
+	É utilizando para desenvolver e testar os componentes de UI de forma isolada.
+	Todos os componentes da aplicação ficam ficam disponiveis em um unico lugar, facilitando a manutenção e consulta.
+
+Story
+	Historia são variações de um component
+	
+
+
+
+Criando um component
+	export default {
+	  component: cpName, 						// O próprio componente importado do React
+	  title: 'cpTitle', 						//Fazendo referência ao componente na barra lateral do aplicativo Storybook
+	};
+
+
+Criando uma historia
+	export const storyName = {...args}			// Cria uma variação do component

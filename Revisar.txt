@@ -1,0 +1,16 @@
+Conteudos para revisar
+
+Ignite 2022 - 
+Mod. 01
+	Aula
+    19      - Propriedades e date-fns
+    20      - Explicando estados/useState
+    22      - Comunicação entre componentes
+    27~~29  - Iniciando com Typescript
+Mod. 02
+	Aula
+		09 - React Router Dom
+		10 - Layout de Rotas
+		16 - Componente Status
+		18 - React Hook Form
+		19 - Validando Formulários

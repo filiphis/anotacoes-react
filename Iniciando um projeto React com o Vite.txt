@@ -1,0 +1,37 @@
+Iniciando um projeto com o Vite
+
+Criando o projeto
+	npm create vite@latest
+	
+	
+Acessando a pasta do projeto criado
+	npm cd project-name
+	
+	
+Instalando as dependencias necessarias
+	npm install
+	
+	
+Iniciando o servidor em modo de desenvolvimento
+	npm run dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
