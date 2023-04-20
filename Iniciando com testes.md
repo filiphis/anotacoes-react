@@ -29,3 +29,7 @@ Siga o padrão AAA ( Arrange, Act, Assert ) para testar
 3. getByPlaceholderText
 4. getByText
 5. getByDisplayValue
+
+## Cheatsheet RTL
+
+[Simple and complete cheat sheet](https://testing-library.com/docs/react-testing-library/cheatsheet)
